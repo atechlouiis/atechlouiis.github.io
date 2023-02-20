@@ -78,38 +78,41 @@ content:
       - layout: left
         title: NICE평가정보
         link: https://www.niceinfo.co.kr/main.nice
-        sub_title: Senior Network System Administrator
+        sub_title: 신용평가모델러 / 리스크컨설턴트
         caption: 2019.01 - 현재
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             
-            - 신용대출 상품 신용평가모형(스코어카드, ML) 및 전략 개발 
-              > 2019.04 - 2019.07 다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발 "\n"
-              > 2022.04 – 2022.12 아프로파이낸셜대부 "\n"
-              > 2022.11 – 2023.03 JT친애저축은행 CSS 개발 "\n"
-              |
-            - 플랫폼대출 상품 신용평가모형(스코어카드, ML) 및 전략 개발           
-              > 2020.10 - 2020.11 렌딧(P2P) ML모형 개발|
-              > 2020.11 - 2020.12 동원제일저축은행 모형 개발|
-              > 2021.10 - 2022.03 NH저축은행 CSS 개발|
-              > 2022.04 – 2022.12 아프로파이낸셜대부 CSS 개발|
-              > 2022.11 – 2023.03 JT친애저축은행 CSS 개발| 
-              |        
-            - 자동차담보대출 상품 신용평가모형(스코어카드, ML) 및 전략 개발           
-              > 2020.05 - 2020.10 스마트저축은행 CSS 개발|
-              |                      
-            - 대안정보를 활용한 모형 개발 
-              > 2019.04 - 2019.07 다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발| 
-              > 2021.04 - 2021.08 페퍼저축은행 다날(휴대폰소액결제정보), 롯데멤버스(커머스정보), 부동산정보를 활용한 대안신용평가 ML스코어 개발| 
+            - 신용평가시스템 개발 (스코어카드/ML모형 & 전략) 
+              - 신용대출 상품 
+                > 2019.04 - 2019.07  다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발 |
+                > 2020.10 - 2020.11  렌딧(P2P) ML모형 개발|
+                > 2022.04 – 2022.12  아프로파이낸셜대부 CSS 개발 |
+                > 2022.11 – 2023.03  JT친애저축은행 CSS 개발 |              
+              - 플랫폼채널 / 연계채널 상품           
+                > 2020.11 - 2020.12  동원제일저축은행 모형 개발|
+                > 2021.10 - 2022.03  NH저축은행 CSS 개발|
+                > 2022.04 – 2022.12  아프로파이낸셜대부 CSS 개발|
+                > 2022.11 – 2023.03  JT친애저축은행 CSS 개발|               
+              - 자동차담보대출 상품           
+                > 2020.05 - 2020.10  스마트저축은행 CSS 개발|           
+              - 회파복대출 상품           
+                > 2019.08 - 2019.09  에이원캐피탈대부 CSS 개발|
+                > 2019.09 - 2019.12  키움저축 CSS 개발|
+            - 대안정보 활용 모형 개발 
+              > 2019.04 - 2019.07  다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발| 
+              > 2021.04 - 2021.08  페퍼저축은행 대안신용평가 ML스코어 개발| 
  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 연세대학교
-        caption: 2011년 - 2019년
-        sub_title: 산업공학 학사, 석사
+        caption: 2011년 - 2016년
+        sub_title: 산업공학 학사
+        caption: 2017년 - 2018년
+        sub_title: 산업공학 석사
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
