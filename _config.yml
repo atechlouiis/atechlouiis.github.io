@@ -80,11 +80,15 @@ content:
         link: https://www.niceinfo.co.kr/main.nice
         sub_title: CSS모델러 / 리스크컨설턴트
         caption: 2019.01 - 현재
-        quote: >
-          금융상품별 신용평가시스템의 모형 / 전략 개발 및 컨설팅하는 PMO 역할을 하고 있으며, 새로운 핀테크 시대에 발맞춰 고객사의 니즈에 선제적으로
-          대응 및 제안하고 있습니다. 
         description: | # this will include new lines to allow paragraphs
-            
+          금융상품별 신용평가시스템의 모형 / 전략 개발 및 컨설팅하는 PMO 역할을 하고 있으며, 새로운 핀테크 시대에 발맞춰 고객사의 니즈에 선제적으로
+          대응 및 제안하고 있습니다.             
+      - layout: left
+        title: 참여 프로젝트
+        link: 
+        sub_title: 
+        caption: 
+        description: | # this will include new lines to allow paragraphs
             - 신용평가시스템 개발 (스코어카드/ML모형 & 전략) 
               - 신용대출 상품 
                 > 2019.04 - 2019.07  다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발 |
