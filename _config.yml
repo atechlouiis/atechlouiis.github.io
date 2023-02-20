@@ -78,10 +78,11 @@ content:
       - layout: left
         title: NICE평가정보
         link: https://www.niceinfo.co.kr/main.nice
-        sub_title: 신용평가모델러 / 리스크컨설턴트
+        sub_title: CSS모델러 / 리스크컨설턴트
         caption: 2019.01 - 현재
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          금융상품별 신용평가시스템의 모형 / 전략 개발 및 컨설팅하는 PMO 역할을 하고 있으며, 새로운 핀테크 시대에 발맞춰 고객사의 니즈에 선제적으로
+          대응 및 제안하고 있습니다. 
         description: | # this will include new lines to allow paragraphs
             
             - 신용평가시스템 개발 (스코어카드/ML모형 & 전략) 
@@ -100,9 +101,9 @@ content:
               - 회파복대출 상품           
                 > 2019.08 - 2019.09  에이원캐피탈대부 CSS 개발|
                 > 2019.09 - 2019.12  키움저축 CSS 개발|
-            - 대안정보 활용 모형 개발 
-              > 2019.04 - 2019.07  다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발| 
-              > 2021.04 - 2021.08  페퍼저축은행 대안신용평가 ML스코어 개발| 
+              - 대안정보 활용 모형 개발 
+                > 2019.04 - 2019.07  다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발| 
+                > 2021.04 - 2021.08  페퍼저축은행 대안신용평가 ML스코어 개발| 
  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,15 +112,32 @@ content:
         title: 연세대학교
         caption: 2011년 - 2016년
         sub_title: 산업공학 학사
-        caption: 2017년 - 2018년
-        sub_title: 산업공학 석사
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+      - layout: left
+        title: 연세대학교
+        caption: 2017년 - 2018년
+        sub_title: 산업공학 석사
+        link: http://isl.yonsei.ac.kr/
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          연세대학교 산업공학과 산업통계연구실 소속으로 공간데이터와 특허데이터, 스타트업 데이터를 활용하여 thy work life balance.
+            - 산학과제 
+              > 2017.03 - 2019.02  효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (중견 도약연구 2단계) (미래창조과학부) |
+              > 2020.10 - 2020.11  국토공간정보의 빅데이터 관리, 분석 및 서비스 플랫폼 기술 개발 (국토교통과학기술진흥원) |
+                > “Support Vector Data Description을 이용한 시간대별 유동인구 이상치 탐지” 기능 모듈 개발
+                > “COMPARING SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (H.J. Kim, B.K. Lee, S.Y. Sohn*)”
+                  >2017.06. 2017년 대한지리학회 연례학술대회 구두발표
+                  >2017.11. 국토연구원 – 공간연구 학술 교류 세미나 구두발표
+                  >2019.02 WRSA 58th annual meeting in Napa Valley  
+                  >Published -  Kim, H. J., Lee, B. K., Sohn, S. Y., "Comparing Spatial Patterns of Sole Proprietorship and Corporate Payday Lenders in SEOUL, KOREA". The Annals of Regional Science, 64(1), 215-236, 2020
+                > “누적합 관리도를 활용한 생활인구 이상치 탐색”
+                  >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표
+                  >Published - Kim, H.J., Sohn, S. Y. "CUSUM Chart Applied to Monitoring Areal Population Mobility". 품질경영학회지, 48(2), 241-256. 2020.
+                  >2021년 한국품질경영학회 춘계학술대회에서 품질우수논문상을 수상
+                
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -131,7 +149,18 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+         
+  - title: Strengths
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
