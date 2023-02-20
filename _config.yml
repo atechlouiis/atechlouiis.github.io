@@ -77,19 +77,18 @@ content:
     content:
       - layout: left
         title: NICE평가정보
-        link: https://www.niceinfo.co.kr/main.nice
+        link: https://www.niceinfo.co.kr/
         sub_title: CSS모델러 / 리스크컨설턴트
         caption: 2019.01 - 현재
         description: | # this will include new lines to allow paragraphs
           금융상품별 신용평가시스템의 모형 / 전략 개발 및 컨설팅하는 PMO 역할을 하고 있으며, 새로운 핀테크 시대에 발맞춰 고객사의 니즈에 선제적으로
           대응 및 제안하고 있습니다.             
       - layout: left
-        title: 참여 프로젝트
+        title: 신용평가시스템 개발
         link: 
-        sub_title: 
+        sub_title: 스코어카드/ML모형 & 전략
         caption: 
         description: | # this will include new lines to allow paragraphs
-            - 신용평가시스템 개발 (스코어카드/ML모형 & 전략) 
               - 신용대출 상품 
                 > 2019.04 - 2019.07  다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발 |
                 > 2020.10 - 2020.11  렌딧(P2P) ML모형 개발|
@@ -124,23 +123,24 @@ content:
         caption: 2017년 - 2018년
         sub_title: 산업공학 석사
         link: http://isl.yonsei.ac.kr/
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          연세대학교 산업공학과 산업통계연구실 소속으로 공간데이터와 특허데이터, 스타트업 데이터를 활용하여 thy work life balance.
-            - 산학과제 
-              > 2017.03 - 2019.02  효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (중견 도약연구 2단계) (미래창조과학부) |
-              > 2020.10 - 2020.11  국토공간정보의 빅데이터 관리, 분석 및 서비스 플랫폼 기술 개발 (국토교통과학기술진흥원) |
-                > “Support Vector Data Description을 이용한 시간대별 유동인구 이상치 탐지” 기능 모듈 개발
-                > “COMPARING SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (H.J. Kim, B.K. Lee, S.Y. Sohn*)”
-                  >2017.06. 2017년 대한지리학회 연례학술대회 구두발표
-                  >2017.11. 국토연구원 – 공간연구 학술 교류 세미나 구두발표
-                  >2019.02 WRSA 58th annual meeting in Napa Valley  
-                  >Published -  Kim, H. J., Lee, B. K., Sohn, S. Y., "Comparing Spatial Patterns of Sole Proprietorship and Corporate Payday Lenders in SEOUL, KOREA". The Annals of Regional Science, 64(1), 215-236, 2020
-                > “누적합 관리도를 활용한 생활인구 이상치 탐색”
-                  >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표
-                  >Published - Kim, H.J., Sohn, S. Y. "CUSUM Chart Applied to Monitoring Areal Population Mobility". 품질경영학회지, 48(2), 241-256. 2020.
-                  >2021년 한국품질경영학회 춘계학술대회에서 품질우수논문상을 수상
+          연세대학교 산업공학과 산업통계연구실 소속으로 공간데이터와 특허데이터, 스타트업 데이터를 활용하여 
+            - 효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (중견 도약연구 2단계) (미래창조과학부)
+              -"Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy"
+                >2018.04 2018년 춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표
+                >2018.09 Asian Network for Quality 2018 학회 포스터 발표
+                >Published in PLOS ONE (2021)
+            - 국토공간정보의 빅데이터 관리, 분석 및 서비스 플랫폼 기술 개발 (국토교통과학기술진흥원)            
+              - “Support Vector Data Description을 이용한 시간대별 유동인구 이상치 탐지” 기능 모듈 개발
+              - “COMPARING SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (H.J. Kim, B.K. Lee, S.Y. Sohn*)”
+                 >2017.06. 대한지리학회 연례학술대회 구두발표|
+                 >2017.11. 국토연구원 – 공간연구 학술 교류 세미나 구두발표|
+                 >2019.02 WRSA 58th annual meeting in Napa Valley  |
+                 >Published in The Annals of Regional Science|
+              - “누적합 관리도를 활용한 생활인구 이상치 탐색”
+                  >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표|
+                  >Published in 품질경영학회지|
+                  >2021년 한국품질경영학회 춘계학술대회에서 품질우수논문상을 수상|
                 
   - title: Publication
     layout: text
