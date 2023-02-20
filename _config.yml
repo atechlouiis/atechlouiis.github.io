@@ -25,7 +25,7 @@ github_username:  atechlouiis
 linkedin_username: hyoung-jun-kim-039526148
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: louiboss5621
+youtube_username: '@louiboss5621
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -90,9 +90,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: 연세대학교
+        caption: 2011년 - 2019년
+        sub_title: 산업공학 학사, 석사
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -100,7 +100,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
