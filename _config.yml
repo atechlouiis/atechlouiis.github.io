@@ -154,7 +154,7 @@ content:
                    >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
                    ><mark>Published in Decision support systems</mark>|
             - 교육활동
-               >2018년도 1학기 데이터마이닝이론및실습(손소영 교수) 조교|
+               >2018년도 1학기 데이터마이닝이론및응용 조교 (손소영 교수, SAS 및 R 프로그래밍 실습)|
                >2018.10 SAS PAR 조교추천 교육(SAS, SQL, ML소개 교육 3회)|
             - 참여 프로그램
                >2017.02 Stanford Research Institute - Introduction to Innovation Workshop (이수)|
@@ -173,12 +173,16 @@ content:
         sub_title: 
         description: | # this will include new lines to allow paragraphs
             - 프로젝트
-              - 2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기
-                > LG 영챌린져 PlayLGway 1등 (2016.06)
-                > “감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)               
+              - 2015.12 - 2016.07 LG유플러스 채용전환형 얼리버드 3기
+                > 2016.06 LG 영챌린져 PlayLGway 1등
+                > 2016.07 “감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)               
               - 2016.09 - 2016.12 “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"|
                 > 연세대학교 정보산업공학과 졸업작품 전시회 출품
                 > 한국품질경영학회 추계학술 포스터 발표
+            - 조교
+              >2012.06 - 2012.08 UCEAP, Korea (캘리포니아 대학교 교환학생 프로그램) 조교|
+            - 병역
+              >2013.02 - 2014.11 의무경찰 경리 행정병 병장 만기전역|
             - 봉사 활동
               >2016.07 - 2016.08 공과대학교, 한국기아대책본부 주관 인도네시아 해외봉사|
             - 동아리 활동
@@ -191,8 +195,9 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Rock climbing
       - Kim, H. J., Jee, S. J., Sohn, S. Y., "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy". PLOS ONE.16(4), e0249124, 2021
+      - Kim, H.J., Sohn, S. Y. "CUSUM Chart Applied to Monitoring Areal Population Mobility". 품질경영학회지, 48(2), 241-256. 2020.
+      - Kim, H. J., Lee, B. K., & Sohn, S. Y. (2020). Comparing spatial patterns of sole proprietorship and corporate payday lenders in Seoul, Korea.The Annals of Regional Science,64(1), 215-236.
       - Kim, H. J., San Kim, T., & Sohn, S. Y. (2020). Recommendation of startups as technology cooperation candidates from the perspectives of similarity and potential: A deep learning approach.Decision support systems,130, 113229.
          
   - title: Strengths
