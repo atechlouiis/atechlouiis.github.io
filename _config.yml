@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Kim, Hyoung Jun (김형준)
+name: 김형준 (Kim, Hyoung Jun)
 title: 신용평가시스템 모델러 / 리스크 컨설턴트
 email: junkim1003@gmail.com
 website: 
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -122,33 +122,32 @@ content:
                 >2018.04 2018년 춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표|
                 >2018.09 Asian Network for Quality 2018 학회 포스터 발표|
                 >Published in PLOS ONE (2021)|
-            - 프로젝트) 
+            - 프로젝트
               >2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기|
                - LG 영챌린져 PlayLGway 1등 (2016.06)
                -“감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)
               >2016.09 - 2016.12 “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"|
                - 연세대학교 정보산업공학과 졸업작품 전시회 출품
                - 한국품질경영학회 추계학술 포스터 발표
-              
-            - 봉사 활동) 
+            - 봉사 활동
               >2016.07 - 2016.08 공과대학교, 한국기아대책본부 주관 인도네시아 해외봉사|
-            - 동아리 활동) 
+            - 동아리 활동
               >2011.09 - 2012.10 기수단 Blue Knights 활동|
               >2015.03 - 2015.12 정보산업공학과 농구동아리 한울 회장|
               >2015.09 - 2016.06 상경대학 오퍼레이션학회 MSC 19기 회장|
                   
-      - layout: top left
+      - layout: left-top
         title: 연세대학교
         caption: 2017년 - 2018년
         sub_title: 산업공학 석사
         link: http://isl.yonsei.ac.kr/
         description: | # this will include new lines to allow paragraphs
-          연세대학교 산업공학과 산업통계연구실 소속으로 공간데이터와 특허데이터, 스타트업 데이터를 활용하여 
+          연세대학교 산업공학과 산업통계연구실 소속으로 공간데이터와 특허데이터, 스타트업 데이터를 활용하여 산학과제 및 연구를 진행하였습니다.  
             - 산학과제)효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (미래창조과학부, 중견 도약연구 2단계)
               -"Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy"
                 >2018.04 2018년 춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표|
                 >2018.09 Asian Network for Quality 2018 학회 포스터 발표|
-                >Published in PLOS ONE (2021)|
+                >Published in PLOS ONE |
             - 산학과제)국토공간정보의 빅데이터 관리, 분석 및 서비스 플랫폼 기술 개발 (국토교통과학기술진흥원)            
               - “Support Vector Data Description을 이용한 시간대별 유동인구 이상치 탐지” 기능 모듈 개발
               - “ SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (H.J. Kim, B.K. Lee, S.Y. Sohn*)”
@@ -158,14 +157,24 @@ content:
                  >Published in The Annals of Regional Science|
               - “누적합 관리도를 활용한 생활인구 이상치 탐색”
                   >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표|
-                  >Published in 품질경영학회지|
-                  >2021년 한국품질경영학회 춘계학술대회에서 품질우수논문상을 수상|
+                  >Published in 품질경영학회지 |
+                  >2021년 한국품질경영학회 춘계학술대회에서 품질우수논문상 수상|
             - 공모전)            
               - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산)
                  >2018.11. 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전|
-                 >2017.11. 한국경영공학회 정기학술세미나 프로그램|
+                 >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
                  >Published in Decision support systems|
-                
+            - 활동)            
+              - 교육)
+                 >2018. SAS PAR 조교추천 교육(SAS, SQL, ML소개 교육 3회)|
+                 >2018년도 1학기 데이터마이닝이론및실습(손소영 교수) 조교|
+                 >2018.10 SAS 다변량 분석 교육 - 실습 조교|
+                 >Published in Decision support systems|
+              - 프로그램)
+                 >2017.02 Stanford Research Institute - Introduction to Innovation Workshop (이수)|
+                 >2018.05 연세대학교 공학교육혁신센터 - 차세대 핵심역량 Intellectual Property R&D (이수)|
+                 >2018.06 Qualcomm KOREA - Qualcomm (San Diego, CA) IT Tour 방문 프로그램 |
+                 
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
