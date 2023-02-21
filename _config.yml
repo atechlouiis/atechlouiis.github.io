@@ -12,7 +12,7 @@ email: junkim1003@gmail.com
 website: 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -81,8 +81,8 @@ content:
         sub_title: CSS모델러 / 리스크컨설턴트
         caption: 2019.01 - 현재
         description: | # this will include new lines to allow paragraphs
-          금융상품별 신용평가시스템의 모형 / 전략 개발 및 컨설팅하는 PMO 역할을 하고 있으며, 새로운 핀테크 시대에 발맞춰 고객사의 니즈에 선제적으로
-          대응 및 제안하고 있습니다.             
+          금융상품별 신용평가시스템의 모형 / 전략 개발 및 컨설팅하는 PMO 역할을 하고 있습니다. 리스크 수준을 제한하며, 수익성을 극대화 할 수 있는 방법에 대해 끊임없이 고민하고 
+          적용해보고 있습니다. 최근에는 새로운 마이데이터 시대에 발맞춰 새로운 대안정보 활용 전략 개발, 고객세그먼트 재정의 등 고객사의 니즈에 선제적으로 대응 및 제안하고 있습니다.             
       - layout: left
         title: 신용평가시스템 개발
         link: 
@@ -113,36 +113,18 @@ content:
     content:
       - layout: left
         title: 연세대학교
-        caption: 2011년 - 2016년
-        sub_title: 정보산업공학 학사
-        description: | # this will include new lines to allow paragraphs
-          질풍노도의 대학 시기엔 다양한 경험을 쌓고,  팀워크 / 의사소통 /  호기심 탐구 / 미래고민.
-            - 효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (중견 도약연구 2단계) (미래창조과학부)
-              -"Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy"
-                >2018.04 2018년 춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표|
-                >2018.09 Asian Network for Quality 2018 학회 포스터 발표|
-                >Published in PLOS ONE (2021)|
-            - 프로젝트
-              >2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기|
-               - LG 영챌린져 PlayLGway 1등 (2016.06)
-               -“감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)
-              >2016.09 - 2016.12 “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"|
-               - 연세대학교 정보산업공학과 졸업작품 전시회 출품
-               - 한국품질경영학회 추계학술 포스터 발표
-            - 봉사 활동
-              >2016.07 - 2016.08 공과대학교, 한국기아대책본부 주관 인도네시아 해외봉사|
-            - 동아리 활동
-              >2011.09 - 2012.10 기수단 Blue Knights 활동|
-              >2015.03 - 2015.12 정보산업공학과 농구동아리 한울 회장|
-              >2015.09 - 2016.06 상경대학 오퍼레이션학회 MSC 19기 회장|
-                  
-      - layout: left-top
-        title: 연세대학교
         caption: 2017년 - 2018년
         sub_title: 산업공학 석사
         link: http://isl.yonsei.ac.kr/
         description: | # this will include new lines to allow paragraphs
-          연세대학교 산업공학과 산업통계연구실 소속으로 공간데이터와 특허데이터, 스타트업 데이터를 활용하여 산학과제 및 연구를 진행하였습니다.  
+          연세대학교 산업공학과 산업통계연구실 소속으로 새롭게 문제를 정의하고 다양한 데이터 분석기법을 통해 인사이트를 도출해내는 인고의 과정을 거쳤습니다.
+          주 관심/연구분야는 1)공간데이터를 활용한 공간패턴/분포 탐색 및 이상치 탐지 2)특허데이터를 활용한 기술 가치 평가 3)스타트업데이터를 활용한 융합/미래기술 예측 등 입니다. 
+      - layout: 
+        title: 
+        caption: 
+        sub_title: 
+        link: 
+        description: | # this will include new lines to allow paragraphs
             - 산학과제)효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (미래창조과학부, 중견 도약연구 2단계)
               -"Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy"
                 >2018.04 2018년 춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표|
@@ -174,6 +156,38 @@ content:
                  >2017.02 Stanford Research Institute - Introduction to Innovation Workshop (이수)|
                  >2018.05 연세대학교 공학교육혁신센터 - 차세대 핵심역량 Intellectual Property R&D (이수)|
                  >2018.06 Qualcomm KOREA - Qualcomm (San Diego, CA) IT Tour 방문 프로그램 |
+                 
+      - layout: left
+        title: 연세대학교
+        caption: 2011년 - 2016년
+        sub_title: 정보산업공학 학사
+        description: | # this will include new lines to allow paragraphs
+          질풍노도의 대학 시기엔 다양한 경험을 쌓고,  팀워크 / 의사소통 /  호기심 탐구 / 미래고민.
+      - layout:
+        title:
+        caption: 
+        sub_title: 
+        description: | # this will include new lines to allow paragraphs
+            - 효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (중견 도약연구 2단계) (미래창조과학부)
+              -"Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy"
+                >2018.04 2018년 춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표|
+                >2018.09 Asian Network for Quality 2018 학회 포스터 발표|
+                >Published in PLOS ONE (2021)|
+            - 프로젝트
+              >2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기|
+               - LG 영챌린져 PlayLGway 1등 (2016.06)
+               -“감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)
+              >2016.09 - 2016.12 “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"|
+               - 연세대학교 정보산업공학과 졸업작품 전시회 출품
+               - 한국품질경영학회 추계학술 포스터 발표
+            - 봉사 활동
+              >2016.07 - 2016.08 공과대학교, 한국기아대책본부 주관 인도네시아 해외봉사|
+            - 동아리 활동
+              >2011.09 - 2012.10 기수단 Blue Knights 활동|
+              >2015.03 - 2015.12 정보산업공학과 농구동아리 한울 회장|
+              >2015.09 - 2016.06 상경대학 오퍼레이션학회 MSC 19기 회장|
+                  
+   
                  
   - title: Publication
     layout: text
