@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in 
-  - LANGUAGE : ENGLISH (Proficient - TOEIC 990, TOEFL 109, OPIc AL)    
   - PROGRAMMING LANGUAGE : Python, SQL, R, SAS
   - TOOLS : GeoDa, Q-GIS, ARcGIS, UCInet, Gephi
+  - LANGUAGE : ENGLISH (Proficient - TOEIC 990, TOEFL 109, OPIc AL)    
 
   I have certificates of 
   - 한자능력검정시험2급 (2014)    
@@ -147,9 +147,9 @@ content:
               - “누적합 관리도를 활용한 생활인구 이상치 탐색” (김형준, 손소영*)
                   >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표|
                   ><mark>Published in 품질경영학회지</mark> |
-                  >2021년 한국품질경영학회 춘계학술대회 <mark>품질우수논문상</mark> |
+                  >2021년 한국품질경영학회 춘계학술대회 <mark>[품질우수논문상](http://isl.yonsei.ac.kr/event/8743)</mark>  |
             - 공모전            
-              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 <mark>대상</mark> (2018.11.)
+              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 <mark>[대상](http://isl.yonsei.ac.kr/index.php?mid=event&page=4&document_srl=7721)</mark>  (2018.11.)
                 - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산, 손소영*)
                    >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
                    ><mark>Published in Decision support systems</mark>|
@@ -172,6 +172,11 @@ content:
         caption: 
         sub_title: 
         description: | # this will include new lines to allow paragraphs
+            - 프로젝트
+               >2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기
+               - LG 영챌린져 PlayLGway 1등 (2016.06)
+               -“감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)
+               >2018.10 SAS PAR 조교추천 교육(SAS, SQL, ML소개 교육 3회)|
             - 프로젝트
               >2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기
                - LG 영챌린져 PlayLGway 1등 (2016.06)
