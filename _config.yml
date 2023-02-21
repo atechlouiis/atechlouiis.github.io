@@ -48,14 +48,21 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  안녕하세요, 저는 김형준이라고 합니다. 
+  어릴 때부터, Football Manager 라는 게임을 통하여 저평가 유망주를 발굴하여 팀을 키우는 것에 항상 관심이 있어왔습니다. 
+  Money Ball이라는 영화를 보고 
+  
+  데이터를 통한 정량적 서비스 개발 등에 관심이 많아 
+  ENFP여서 
+  
+  관심가져주셔서 감사합니다. 좋은 인연으로 이어지면 좋겠습니다. 
+  
+  역량 
+  - 프로그래밍 언어 : Python, SQL, R, SAS
+  - 도구 : GeoDa, Q-GIS, ARcGIS, UCInet, Gephi
+  - 언어 : ENGLISH (Proficient - TOEIC 990, TOEFL 109, OPIc AL)    
 
-  I am most skilled in 
-  - PROGRAMMING LANGUAGE : Python, SQL, R, SAS
-  - TOOLS : GeoDa, Q-GIS, ARcGIS, UCInet, Gephi
-  - LANGUAGE : ENGLISH (Proficient - TOEIC 990, TOEFL 109, OPIc AL)    
-
-  I have certificates of 
+  자격증 
   - 한자능력검정시험2급 (2014)    
   - 워드프로세서 1급 (2013)
   
@@ -97,7 +104,6 @@ content:
         caption: 
         description: | # this will include new lines to allow paragraphs
               - 신용대출 상품 
-                > 2019.04 - 2019.07  다날 휴대폰소액결제정보를 활용한 신용평가스코어 개발 |
                 > 2020.10 - 2020.11  렌딧(P2P) ML모형 개발|
                 > 2022.04 – 2022.12  아프로파이낸셜대부 CSS 개발 |
                 > 2022.11 – 2023.03  JT친애저축은행 CSS 개발 |              
@@ -124,11 +130,10 @@ content:
         sub_title: 산업공학 석사
         link: http://isl.yonsei.ac.kr/
         description: | # this will include new lines to allow paragraphs
-          연세대학교 산업공학과 산업통계연구실 소속으로, 새롭게 문제를 정의하고 다양한 데이터 분석기법을 통해 인사이트를 도출해내는 역량을 쌓았습니다.
-          주 관심/연구분야는 다음과 같습니다.
-           - 공간데이터를 활용한 공간패턴/분포 탐색 및 이상치 탐지
-           - 특허데이터를 활용한 기술 가치 평가
-           - 스타트업데이터를 활용한 융합/미래기술 예측 및 유망기업 발굴
+          학부시절 CRM 수업을 통해, 인연을 맺게된 손소영 교수님의 지도를 받아 연세대학교 산업공학과 산업통계연구실 소속으로 연구하였습니다. 
+          문제를 새롭게 정의하고 다양한 데이터 분석기법을 통해 인사이트를 도출해내는 역량을 쌓았습니다. 주 관심/연구분야는 공간데이터를 활용한 공간패턴 탐색 및 이상치 탐지 /
+           특허데이터를 활용한 기술 가치 평가 / 스타트업데이터를 활용한 융합기술 예측 및 유망기업 발굴 입니다. 아이디어를 내고, 실험을 통하여 글이라는 매개로 표현하는 연구생활이 
+           재밌었지만, 도메인 지식이 부족한 상태로 연구를 하는 것에 한계를 느꼈다. 실시간 데이터에 대한 분석 및 실제 데이터 / 인공지능 서비스화에 대한 갈망이 커졌다. 
             
       - layout: 
         title: 
@@ -170,7 +175,13 @@ content:
         caption: 2011년 - 2016년
         sub_title: 정보산업공학 학사
         description: | # this will include new lines to allow paragraphs
-          질풍노도의 대학 시기엔 다양한 경험을 쌓고,  팀워크 / 의사소통 /  호기심 탐구 / 미래고민.
+          질풍노도의 대학 시기엔 호기심이 항상 많았고, 도전하는 것이 두렵지 않았습니다.          
+          팀 구기 스포츠에 관심이 매우 많았으며, 여행 다니기를 좋아하였습니다. 
+          무엇보다도 다양한 활동을 통하여, 여러 사람을 만났고 제가 좋아하는 것과 싫어하는 것에 대한 선택지를 좁혔습니다. 
+          하루하루를 즐겁고 알차게 보내려고 했기 때문에, 미래에 대한 고민은 크게 없었습니다.
+          대학교 3학년 때, Customer Relationsip Management (현, 데이터마이닝이론과응용)을 수강한 것이 
+          인생의 한 꼭지였습니다.           
+          
       - layout:
         title:
         caption: 
