@@ -133,24 +133,24 @@ content:
         link: 
         description: | # this will include new lines to allow paragraphs
             - 산학과제 - 효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (미래창조과학부, 중견 도약연구 2단계)            
-              - "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy"
+              - "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy" (김형준, 지수정, 손소영*)
                 >2018.04 2018년 춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표|
                 >2018.09 Asian Network for Quality 2018 학회 포스터 발표|
                 ><mark>Published in PLOS ONE</mark>|
             - 산학과제 - 국토공간정보의 빅데이터 관리, 분석 및 서비스 플랫폼 기술 개발 (국토교통과학기술진흥원)            
               - “Support Vector Data Description을 이용한 시간대별 유동인구 이상치 탐지” 기능 모듈 개발
-              - “SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (H.J. Kim, B.K. Lee, S.Y. Sohn*)”
+              - “SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (김형준, 이보경, 손소영*)”
                  >2017.06. 대한지리학회 연례학술대회 구두발표|
                  >2017.11. 국토연구원 – 공간연구 학술 교류 세미나 구두발표|
                  >2019.02 WRSA 58th annual meeting in Napa Valley |
                  ><mark>Published in The Annals of Regional Science</mark>|
-              - “누적합 관리도를 활용한 생활인구 이상치 탐색”
+              - “누적합 관리도를 활용한 생활인구 이상치 탐색” (김형준, 손소영*)
                   >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표|
                   ><mark>Published in 품질경영학회지</mark> |
-                  >2021년 한국품질경영학회 춘계학술대회에서 <mark>품질우수논문상</mark> |
+                  >2021년 한국품질경영학회 춘계학술대회 <mark>품질우수논문상</mark> |
             - 공모전            
-              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 <mark>대상</mark>|(2018.11.)
-                - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산)
+              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 <mark>대상</mark> (2018.11.)
+                - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산, 손소영*)
                    >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
                    ><mark>Published in Decision support systems</mark>|
             - 교육활동
@@ -173,7 +173,7 @@ content:
         sub_title: 
         description: | # this will include new lines to allow paragraphs
             - 프로젝트
-              >2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기|
+              >2016.07 - 2016.08 LG유플러스 채용전환형 얼리버드 3기
                - LG 영챌린져 PlayLGway 1등 (2016.06)
                -“감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)
               >2016.09 - 2016.12 “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"|
