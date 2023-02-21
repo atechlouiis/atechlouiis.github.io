@@ -195,22 +195,13 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Kim, H. J., Jee, S. J., Sohn, S. Y., "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy". PLOS ONE.16(4), e0249124, 2021
-      - Kim, H.J., Sohn, S. Y. "CUSUM Chart Applied to Monitoring Areal Population Mobility". 품질경영학회지, 48(2), 241-256. 2020.
-      - Kim, H. J., Lee, B. K., & Sohn, S. Y. (2020). Comparing spatial patterns of sole proprietorship and corporate payday lenders in Seoul, Korea.The Annals of Regional Science,64(1), 215-236.
-      - Kim, H. J., San Kim, T., & Sohn, S. Y. (2020). Recommendation of startups as technology cooperation candidates from the perspectives of similarity and potential: A deep learning approach.Decision support systems,130, 113229.
+      - [Kim, H. J., Jee, S. J., Sohn, S. Y., "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy". PLOS ONE.16(4), e0249124, 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249124)
+      - [Kim, H.J., Sohn, S. Y. "CUSUM Chart Applied to Monitoring Areal Population Mobility". 품질경영학회지, 48(2), 241-256. 2020.](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202020941304790&dbt=NART)
+      - [Kim, H. J., Lee, B. K., & Sohn, S. Y. (2020). Comparing spatial patterns of sole proprietorship and corporate payday lenders in Seoul, Korea.
+      The Annals of Regional Science,64(1), 215-236.](https://yonsei.pure.elsevier.com/en/publications/comparing-spatial-patterns-of-sole-proprietorship-and-corporate-p)
+      - [Kim, H. J., San Kim, T., & Sohn, S. Y. (2020). Recommendation of startups as technology cooperation 
+      candidates from the perspectives of similarity and potential: A deep learning approach.Decision support systems,130, 113229.](https://yonsei.pure.elsevier.com/en/publications/recommendation-of-startups-as-technology-cooperation-candidates-f)
          
-  - title: Strengths
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
