@@ -82,8 +82,8 @@ content:
         sub_title: 자동매매 트레이딩 / 서비스 개발
         caption: 
         description: | # this will include new lines to allow paragraphs
-          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 코드를 공유합니다.           
-          더불어 현재 개발중인 공공데이터 API 및 크롤링을 활용한 부동산 텔레그램 알리미 서비스를 개발 중에 있습니다.           
+          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 프로젝트를 공유드립니다.           
+          더불어 현재 개발중인 API 및 크롤링 등을 활용한 부동산 텔레그램 알리미 서비스 프로젝트를 공유드립니다.           
           
       - layout: 
         title: 
@@ -150,7 +150,7 @@ content:
         sub_title: 적립식 장기투자 시뮬레이션
         caption: 현재 미운영
         description: | # this will include new lines to allow paragraphs
-          평소에 관심있었던 적립식 장기투자 시뮬레이션의 결과물을 Microsoft PowerBi Tool을 활용하여 데이터 시각화 컨텐츠를 만들었습니다.
+          평소에 관심있었던 적립식 장기투자 시뮬레이션의 결과물을 Microsoft PowerBI Tool을 활용하여 데이터 시각화 컨텐츠를 만들었습니다.
           
       - layout: left
         title: 블로그
