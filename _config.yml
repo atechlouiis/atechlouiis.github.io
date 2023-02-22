@@ -75,39 +75,6 @@ about_content: | # this will include new lines to allow paragraphs
   - 워드프로세서 1급 (2013)
   
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:                          
-      - layout: left
-        title: Github
-        link: https://github.com/atechlouiis
-        sub_title: 자동매매 트레이딩 / 서비스 개발
-        caption: 
-        description: | # this will include new lines to allow paragraphs
-          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 프로젝트를 공유드립니다.           
-          더불어 현재 개발중인 API 및 크롤링 등을 활용한 부동산 텔레그램 알리미 서비스 프로젝트를 공유드립니다.           
-          
-      - layout: 
-        title: 
-        link: 
-        sub_title:  
-        caption: 
-        description: | # this will include new lines to allow paragraphs
-              - 주식 자동매매 트레이딩 전략 (대신증권 크레온 API 활용)
-                > [야수의 심장 - 갭상 ](https://blog.naver.com/junkim1003/222004940301)|
-                > [거래량 폭발주](https://blog.naver.com/junkim1003/222009297042)|
-                > [DART API활용 수주공시 매매](https://blog.naver.com/junkim1003/222009297042)|
-                
-              - 재무제표 기반 스윙 전략 (Fnguide, DAUM증권 크롤링 활용)
-                > PER/PBR 하단 주식 + RSI 발굴 [blog](https://blog.naver.com/junkim1003/222670639022), [git](https://blog.naver.com/junkim1003/222004940301)|
-                
-              - 서비스 개발         
-                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://blog.naver.com/junkim1003/222485023182)|
-                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://blog.naver.com/junkim1003/222485023182)|
-                
-              - 기타         
-                > 국내 주식 주가, 거래량 크롤링 하기 [blog](https://blog.naver.com/junkim1003/222007045946), [git](https://blog.naver.com/junkim1003/222007045946)|
-                
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -144,7 +111,123 @@ content:
           - 강사   
                > 2022.01. - (현재) 금융업권 종사자 대상 신용평가시스템(CSS) 고도화 과정 강사            
                > 2021.01. - (현재) 신입직원 SAS 코드 교육            
-              
+         
+ 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 연세대학교
+        caption: 2017년 - 2018년
+        sub_title: 산업공학 석사
+        link: http://isl.yonsei.ac.kr/
+        description: | # this will include new lines to allow paragraphs
+          문제를 새롭게 정의하고 다양한 데이터 분석기법을 통해 인사이트를 도출해내는 역량을 쌓았습니다. 
+          주 관심/연구분야는 공간데이터를 활용한 공간패턴 탐색 및 이상치 탐지 / 특허데이터를 활용한 기술 가치 평가 / 스타트업데이터를 활용한 융합기술 예측 및 유망기업 발굴 입니다. 
+             
+      - layout: 
+        title: 
+        caption: 
+        sub_title: 
+        link: 
+        description: | # this will include new lines to allow paragraphs
+            - 공모전            
+              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 [대상](http://isl.yonsei.ac.kr/index.php?mid=event&page=4&document_srl=7721) (2018.11.)
+                - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산, 손소영*)
+                   >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
+                   ><mark>Published in Decision support systems*</mark>|
+            - 산학과제 - 효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (미래창조과학부, 중견 도약연구 2단계)            
+              - "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy" (김형준, 지수정, 손소영*)
+                >2018.04 [춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표](http://isl.yonsei.ac.kr/index.php?mid=event&page=5&document_srl=7352)|
+                >2018.09 Asian Network for Quality 2018 학회 포스터 발표|
+                ><mark>Published in PLOS ONE*</mark>|
+            - 산학과제 - 국토공간정보의 빅데이터 관리, 분석 및 서비스 플랫폼 기술 개발 (국토교통과학기술진흥원)            
+              - “Support Vector Data Description을 이용한 시간대별 유동인구 이상치 탐지” 기능 모듈 개발
+              - “SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (김형준, 이보경, 손소영*)”
+                 >2017.06. [대한지리학회 연례학술대회 구두발표](https://www.kgeography.or.kr/boards/notice/20312/detail/news/notice/)|
+                 >2017.11. [국토연구원 – 공간연구 학술 교류 세미나 구두발표](http://isl.yonsei.ac.kr/index.php?mid=event&page=6&document_srl=7053)|
+                 >2019.02 WRSA 58th annual meeting in Napa Valley |
+                 ><mark>Published in The Annals of Regional Science</mark>|
+              - “누적합 관리도를 활용한 생활인구 이상치 탐색” (김형준, 손소영*)
+                  >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표|
+                  ><mark>Published in 품질경영학회지*</mark> |
+                  >2021년 한국품질경영학회 춘계학술대회 [품질우수논문상](http://isl.yonsei.ac.kr/event/8743) |
+            - 졸업논문            
+              - ["Dynamic Link Prediction to Identify Emerging Business Areas based on Startup Market Convergence Data"](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=7cdaec4d3c311351ffe0bdc3ef48d419&keyword=Dynamic%20Link%20Prediction%20to%20Identify%20Emerging%20Business%20Areas%20based%20on%20Startup%20Market%20Convergence%20Data)
+            - 교육활동
+               >2018.10. SAS PAR 조교추천 교육(SAS, SQL, ML소개 교육 3회)|
+               >2018년도 1학기 데이터마이닝이론및응용 조교 (손소영 교수, SAS 및 R 프로그래밍 실습)|
+            - 참여 프로그램
+               >2018.06. [Qualcomm KOREA - Qualcomm (San Diego, CA) IT Tour 방문 프로그램](http://qcitour.co.kr/gallery/51973)|
+               >2018.05. 연세대학교 공학교육혁신센터 - 차세대 핵심역량 Intellectual Property R&D (이수)|
+               >2017.02. Stanford Research Institute - Introduction to Innovation Workshop (이수)|
+                 
+      - layout: left
+        title: 연세대학교
+        caption: 2011년 - 2016년
+        sub_title: 정보산업공학 학사
+        description: | # this will include new lines to allow paragraphs
+          질풍노도의 대학 시기엔 호기심이 항상 많았고, 도전하는 것이 두렵지 않았습니다.          
+          팀 구기 스포츠에 관심이 매우 많았으며, 여행 다니기를 좋아하였습니다. 
+          무엇보다도 다양한 활동을 통하여, 여러 사람을 만났고 제가 좋아하는 것과 싫어하는 것에 대한 선택지를 좁혔습니다. 
+          
+      - layout:
+        title:
+        caption: 
+        sub_title: 
+        description: | # this will include new lines to allow paragraphs
+            - 프로젝트              
+              - 2016.09. - 2016.12. “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"
+                > 연세대학교 정보산업공학과 졸업작품 전시회 출품|
+                > 한국품질경영학회 추계학술 포스터 발표|
+              - 2015.12. - 2016.07. LG유플러스 채용전환형 얼리버드 3기
+                > 2016.06. LG 영챌린져 PlayLGway 1등|
+                > 2016.07. “감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)| 
+            - 봉사 활동
+              >2016.07. - 2016.08. [공과대학교, 한국기아대책본부 주관 인도네시아 해외봉사](http://www.eeic.or.kr/www/center/bbs.do?type=view&bd_seq=1537)|
+            - 동아리 활동
+              >2015.09. - 2016.06. 상경대학 오퍼레이션학회 MSC 19기 회장|
+              >2015.03. - 2015.12. 정보산업공학과 농구동아리 한울 회장|
+              >2011.09. - 2012.10. 기수단 Blue Knights 활동|
+            - 병역
+              >2013.02. - 2014.11. 의무경찰 경리 행정병 병장 만기전역|
+            - 조교
+              >2012.06. - 2012.08. UCEAP, Korea (캘리포니아 대학교 교환학생 프로그램) 조교|
+                  
+        
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:                          
+      - layout: left
+        title: Github
+        link: https://github.com/atechlouiis
+        sub_title: 자동매매 트레이딩 / 서비스 개발
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 프로젝트를 공유드립니다.           
+          더불어 현재 개발중인 API 및 크롤링 등을 활용한 부동산 텔레그램 알리미 서비스 프로젝트를 공유드립니다.           
+          
+      - layout: 
+        title: 
+        link: 
+        sub_title:  
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+              - 주식 자동매매 트레이딩 전략 (대신증권 크레온 API 활용)
+                > [야수의 심장 - 갭상 ](https://blog.naver.com/junkim1003/222004940301)|
+                > [거래량 폭발주](https://blog.naver.com/junkim1003/222009297042)|
+                > [DART API활용 수주공시 매매](https://blog.naver.com/junkim1003/222009297042)|
+                
+              - 재무제표 기반 스윙 전략 (Fnguide, DAUM증권 크롤링 활용)
+                > PER/PBR 하단 주식 + RSI 발굴 [blog](https://blog.naver.com/junkim1003/222670639022), [git](https://blog.naver.com/junkim1003/222004940301)|
+                
+              - 서비스 개발         
+                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://blog.naver.com/junkim1003/222485023182)|
+                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://blog.naver.com/junkim1003/222485023182)|
+                
+              - 기타         
+                > 국내 주식 주가, 거래량 크롤링 하기 [blog](https://blog.naver.com/junkim1003/222007045946), [git](https://blog.naver.com/junkim1003/222007045946)|
+                
   - title: Postings # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -208,90 +291,6 @@ content:
                 > [아이디어노트#6 NFT기반 회원권플랫폼](https://blog.naver.com/junkim1003/222675691095)|
                 
           
- 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 연세대학교
-        caption: 2017년 - 2018년
-        sub_title: 산업공학 석사
-        link: http://isl.yonsei.ac.kr/
-        description: | # this will include new lines to allow paragraphs
-          문제를 새롭게 정의하고 다양한 데이터 분석기법을 통해 인사이트를 도출해내는 역량을 쌓았습니다. 
-          주 관심/연구분야는 공간데이터를 활용한 공간패턴 탐색 및 이상치 탐지 / 특허데이터를 활용한 기술 가치 평가 / 스타트업데이터를 활용한 융합기술 예측 및 유망기업 발굴 입니다. 
-             
-      - layout: 
-        title: 
-        caption: 
-        sub_title: 
-        link: 
-        description: | # this will include new lines to allow paragraphs
-            - 공모전            
-              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 [대상](http://isl.yonsei.ac.kr/index.php?mid=event&page=4&document_srl=7721) (2018.11.)
-                - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산, 손소영*)
-                   >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
-                   ><mark>Published in Decision support systems</mark>|
-                   ><mark>Published in Decision support systems</mark>|
-            - 산학과제 - 효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (미래창조과학부, 중견 도약연구 2단계)            
-              - "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy" (김형준, 지수정, 손소영*)
-                >2018.04 [춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표](http://isl.yonsei.ac.kr/index.php?mid=event&page=5&document_srl=7352)|
-                >2018.09 Asian Network for Quality 2018 학회 포스터 발표|
-                ><mark>Published in PLOS ONE</mark>|
-            - 산학과제 - 국토공간정보의 빅데이터 관리, 분석 및 서비스 플랫폼 기술 개발 (국토교통과학기술진흥원)            
-              - “Support Vector Data Description을 이용한 시간대별 유동인구 이상치 탐지” 기능 모듈 개발
-              - “SPATIAL PATTERNS OF SOLE PROPRIETORSHIP AND CORPORATE PAYDAY LENDERS IN SEOUL, KOREA (김형준, 이보경, 손소영*)”
-                 >2017.06. [대한지리학회 연례학술대회 구두발표](https://www.kgeography.or.kr/boards/notice/20312/detail/news/notice/)|
-                 >2017.11. [국토연구원 – 공간연구 학술 교류 세미나 구두발표](http://isl.yonsei.ac.kr/index.php?mid=event&page=6&document_srl=7053)|
-                 >2019.02 WRSA 58th annual meeting in Napa Valley |
-                 ><mark>Published in The Annals of Regional Science</mark>|
-              - “누적합 관리도를 활용한 생활인구 이상치 탐색” (김형준, 손소영*)
-                  >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표|
-                  ><mark>Published in 품질경영학회지</mark> |
-                  >2021년 한국품질경영학회 춘계학술대회 [품질우수논문상](http://isl.yonsei.ac.kr/event/8743) |
-            - 졸업논문            
-              - ["Dynamic Link Prediction to Identify Emerging Business Areas based on Startup Market Convergence Data"](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=7cdaec4d3c311351ffe0bdc3ef48d419&keyword=Dynamic%20Link%20Prediction%20to%20Identify%20Emerging%20Business%20Areas%20based%20on%20Startup%20Market%20Convergence%20Data)
-            - 교육활동
-               >2018.10. SAS PAR 조교추천 교육(SAS, SQL, ML소개 교육 3회)|
-               >2018년도 1학기 데이터마이닝이론및응용 조교 (손소영 교수, SAS 및 R 프로그래밍 실습)|
-            - 참여 프로그램
-               >2018.06. [Qualcomm KOREA - Qualcomm (San Diego, CA) IT Tour 방문 프로그램](http://qcitour.co.kr/gallery/51973)|
-               >2018.05. 연세대학교 공학교육혁신센터 - 차세대 핵심역량 Intellectual Property R&D (이수)|
-               >2017.02. Stanford Research Institute - Introduction to Innovation Workshop (이수)|
-                 
-      - layout: left
-        title: 연세대학교
-        caption: 2011년 - 2016년
-        sub_title: 정보산업공학 학사
-        description: | # this will include new lines to allow paragraphs
-          질풍노도의 대학 시기엔 호기심이 항상 많았고, 도전하는 것이 두렵지 않았습니다.          
-          팀 구기 스포츠에 관심이 매우 많았으며, 여행 다니기를 좋아하였습니다. 
-          무엇보다도 다양한 활동을 통하여, 여러 사람을 만났고 제가 좋아하는 것과 싫어하는 것에 대한 선택지를 좁혔습니다. 
-          
-      - layout:
-        title:
-        caption: 
-        sub_title: 
-        description: | # this will include new lines to allow paragraphs
-            - 프로젝트              
-              - 2016.09. - 2016.12. “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"
-                > 연세대학교 정보산업공학과 졸업작품 전시회 출품|
-                > 한국품질경영학회 추계학술 포스터 발표|
-              - 2015.12. - 2016.07. LG유플러스 채용전환형 얼리버드 3기
-                > 2016.06. LG 영챌린져 PlayLGway 1등|
-                > 2016.07. “감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)| 
-            - 봉사 활동
-              >2016.07. - 2016.08. [공과대학교, 한국기아대책본부 주관 인도네시아 해외봉사](http://www.eeic.or.kr/www/center/bbs.do?type=view&bd_seq=1537)|
-            - 동아리 활동
-              >2015.09. - 2016.06. 상경대학 오퍼레이션학회 MSC 19기 회장|
-              >2015.03. - 2015.12. 정보산업공학과 농구동아리 한울 회장|
-              >2011.09. - 2012.10. 기수단 Blue Knights 활동|
-            - 병역
-              >2013.02. - 2014.11. 의무경찰 경리 행정병 병장 만기전역|
-            - 조교
-              >2012.06. - 2012.08. UCEAP, Korea (캘리포니아 대학교 교환학생 프로그램) 조교|
-                  
-   
                  
   - title: Publication
     layout: text
