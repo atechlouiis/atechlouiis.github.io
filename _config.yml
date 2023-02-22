@@ -223,6 +223,12 @@ content:
         sub_title: 
         link: 
         description: | # this will include new lines to allow paragraphs
+            - 공모전            
+              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 [대상](http://isl.yonsei.ac.kr/index.php?mid=event&page=4&document_srl=7721) (2018.11.)
+                - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산, 손소영*)
+                   >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
+                   ><mark>Published in Decision support systems</mark>|
+                   ><mark>Published in Decision support systems</mark>|
             - 산학과제 - 효율적인 혁신을 위한 특허 경영 전략 계량분석 연구 (미래창조과학부, 중견 도약연구 2단계)            
               - "Cost–Benefit Model for Multi-Generational High-Technology Products to Compare Sequential Innovation Strategy with Quality Strategy" (김형준, 지수정, 손소영*)
                 >2018.04 [춘계공동학술대회(한국경영학회, 대한산업공학회, 한국시뮬레이션학회) 구두발표](http://isl.yonsei.ac.kr/index.php?mid=event&page=5&document_srl=7352)|
@@ -239,18 +245,15 @@ content:
                   >2018.11. 한국공간정보학회 2018년 공동추계학술대회 포스터 발표|
                   ><mark>Published in 품질경영학회지</mark> |
                   >2021년 한국품질경영학회 춘계학술대회 [품질우수논문상](http://isl.yonsei.ac.kr/event/8743) |
-            - 공모전            
-              - 제14회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 [대상](http://isl.yonsei.ac.kr/index.php?mid=event&page=4&document_srl=7721) (2018.11.)
-                - “Doc2vec 기반 협업 필터링과 요인분석을 활용한 인수합병 대상 스타트업 추천 시스템” (김형준, 김태산, 손소영*)
-                   >2018.11. 한국경영공학회 정기학술세미나 프로그램 발표|
-                   ><mark>Published in Decision support systems</mark>|
+            - 졸업논문            
+              - ["Dynamic Link Prediction to Identify Emerging Business Areas based on Startup Market Convergence Data"](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=7cdaec4d3c311351ffe0bdc3ef48d419&keyword=Dynamic%20Link%20Prediction%20to%20Identify%20Emerging%20Business%20Areas%20based%20on%20Startup%20Market%20Convergence%20Data)
             - 교육활동
-               >2018년도 1학기 데이터마이닝이론및응용 조교 (손소영 교수, SAS 및 R 프로그래밍 실습)|
                >2018.10 SAS PAR 조교추천 교육(SAS, SQL, ML소개 교육 3회)|
+               >2018년도 1학기 데이터마이닝이론및응용 조교 (손소영 교수, SAS 및 R 프로그래밍 실습)|
             - 참여 프로그램
-               >2017.02 Stanford Research Institute - Introduction to Innovation Workshop (이수)|
-               >2018.05 연세대학교 공학교육혁신센터 - 차세대 핵심역량 Intellectual Property R&D (이수)|
                >2018.06 [Qualcomm KOREA - Qualcomm (San Diego, CA) IT Tour 방문 프로그램](http://qcitour.co.kr/gallery/51973)|
+               >2018.05 연세대학교 공학교육혁신센터 - 차세대 핵심역량 Intellectual Property R&D (이수)|
+               >2017.02 Stanford Research Institute - Introduction to Innovation Workshop (이수)|
                  
       - layout: left
         title: 연세대학교
@@ -266,23 +269,23 @@ content:
         caption: 
         sub_title: 
         description: | # this will include new lines to allow paragraphs
-            - 프로젝트
-              - 2015.12 - 2016.07 LG유플러스 채용전환형 얼리버드 3기
-                > 2016.06 LG 영챌린져 PlayLGway 1등|
-                > 2016.07 “감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)|               
+            - 프로젝트              
               - 2016.09 - 2016.12 “Q-GIS 와 다중 회귀분석을 활용한 푸드트럭 입지 규제 개선"
                 > 연세대학교 정보산업공학과 졸업작품 전시회 출품|
                 > 한국품질경영학회 추계학술 포스터 발표|
-            - 조교
-              >2012.06 - 2012.08 UCEAP, Korea (캘리포니아 대학교 교환학생 프로그램) 조교|
-            - 병역
-              >2013.02 - 2014.11 의무경찰 경리 행정병 병장 만기전역|
+              - 2015.12 - 2016.07 LG유플러스 채용전환형 얼리버드 3기
+                > 2016.06 LG 영챌린져 PlayLGway 1등|
+                > 2016.07 “감정동사를 활용한 영화 큐레이션 시스템” (김형준, 오지수, 박재범, 강준석, 서장원)| 
             - 봉사 활동
               >2016.07 - 2016.08 [공과대학교, 한국기아대책본부 주관 인도네시아 해외봉사](http://www.eeic.or.kr/www/center/bbs.do?type=view&bd_seq=1537)|
             - 동아리 활동
-              >2011.09 - 2012.10 기수단 Blue Knights 활동|
-              >2015.03 - 2015.12 정보산업공학과 농구동아리 한울 회장|
               >2015.09 - 2016.06 상경대학 오퍼레이션학회 MSC 19기 회장|
+              >2015.03 - 2015.12 정보산업공학과 농구동아리 한울 회장|
+              >2011.09 - 2012.10 기수단 Blue Knights 활동|
+            - 병역
+              >2013.02 - 2014.11 의무경찰 경리 행정병 병장 만기전역|
+            - 조교
+              >2012.06 - 2012.08 UCEAP, Korea (캘리포니아 대학교 교환학생 프로그램) 조교|
                   
    
                  
