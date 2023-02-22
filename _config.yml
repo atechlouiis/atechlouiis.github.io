@@ -298,7 +298,7 @@ content:
          
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: sproogen resume-theme (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
