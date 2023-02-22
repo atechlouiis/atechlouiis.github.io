@@ -70,7 +70,58 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
+        title: 블로그
+        link: https://blog.naver.com/junkim1003
+        sub_title: 금융데이터 분석
+        caption: 이따금씩
+        description: | # this will include new lines to allow paragraphs
+          성공적인 투자를 위하여, 주식 / 부동산 등 분야를 가리지 않고 역사 / 금융데이터 정량 분석 등 다양한 주제로 포스팅을 하고 있습니다.
+          
+          
+      - layout: 
+        title: 
+        link: 
+        sub_title:  
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+              - 주식 전략
+                > [BitCoin은 어떤 금융자산과 비슷할까?](https://blog.naver.com/junkim1003/222004940301)|
+                > [자산별 상관관계를 알아보자...1편](https://blog.naver.com/junkim1003/221984862054)|
+                > [자산별 상관관계를 알아보자...2편](https://blog.naver.com/junkim1003/221986894512)|
+                > [국내 주식 주가, 거래량 크롤링 하기](https://blog.naver.com/junkim1003/222007045946)|
+                > [JYP랑 트와이스 신곡](https://blog.naver.com/junkim1003/222394652674)|
+                > [IPO 관련주 언제 살까?](https://blog.naver.com/junkim1003/222332470287)|
+                > [원자재 관련주와 괴리율](https://blog.naver.com/junkim1003/222322551249)|
+                > [액면분할과 주가](https://blog.naver.com/junkim1003/222319619084)|
+                > [장단기 금리차와 증시](https://blog.naver.com/junkim1003/222944105644)|
+                > [꾸준함 vs 행운, 마켓타이밍 vs 장기투자](https://blog.naver.com/junkim1003/222675588437)|
+                > [시장의 바닥은 어디인가?](https://blog.naver.com/junkim1003/222633298614)|
+                > [사명 변경과 주가](https://blog.naver.com/junkim1003/222587414448)|
+                
+              - 부동산 지표          
+                > [전세가율와 매매 타이밍...1편 서울](https://blog.naver.com/junkim1003/222924678626)|
+                > [부동산은 왜? 언제? 우상향 할까? (feat.통화량)](https://blog.naver.com/junkim1003/221978453700)|
+                > [부동산에 왜 투자해야 할까?](https://blog.naver.com/junkim1003/221977321740)|
+                
+              - 경제 전반          
+                > [버블의 형성과 꺼짐...1편](https://blog.naver.com/junkim1003/222009297042)|
+                > [버블의 형성과 꺼짐...2편](https://blog.naver.com/junkim1003/222010340286)|
+                > [버블의 형성과 꺼짐...3편](https://blog.naver.com/junkim1003/222011169258)|
+                > [칵테일이론과 동조현상](https://blog.naver.com/junkim1003/222802788312)|
+                > [장단기 금리차와 증시](https://blog.naver.com/junkim1003/222944105644)|
+                > [토토해서 돈을 벌 수 없는 이유](https://blog.naver.com/junkim1003/222950205751)|
+                > [아파트 가격의 역사](https://blog.naver.com/junkim1003/222655117782)|
+                
+              - 아이디어노트        
+                > [아이디어노트#1 아파트 최적위치 계산기](https://blog.naver.com/junkim1003/222485023182)|
+                > [아이디어노트#2 포메이션과 주식전략](https://blog.naver.com/junkim1003/222492113405)|
+                > [아이디어노트#3 BNPL](https://blog.naver.com/junkim1003/222547011011)|
+                > [아이디어노트#4 KEDZE](https://blog.naver.com/junkim1003/222623427629)|
+                > [아이디어노트#5 아파트-ETF](https://blog.naver.com/junkim1003/222655106323)|
+                > [아이디어노트#6 NFT기반 회원권플랫폼](https://blog.naver.com/junkim1003/222675691095)|
+                
+      - layout: top-LEFT
         title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
@@ -85,7 +136,8 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+           
+                
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
