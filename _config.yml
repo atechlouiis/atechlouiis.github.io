@@ -90,25 +90,119 @@ content:
           - 신용평가시스템(CSS) 스코어카드/ML모형 & 전략 개발 및 컨설팅, 모니터링 시스템 설계
           - 활용 모델: 로지스틱 회귀, GBM, DNN, RF, 대리자모형, two-target ML, explainable ML 등
               - 연체부도율 예측모형 개발                 
-                > 2022.11. – 2023.03. (5M)  JT친애저축은행 신용대출(플랫폼) 모형 및 전략 |     
-                > 2022.04. – 2022.12. (7M)  아프로파이낸셜대부 신용대출(플랫폼) 모형 및 전략 |  
-                > 2021.10. - 2022.03. (6M)  NH저축은행 신용대출(플랫폼) 모형 및 전략|    
-                > 2021.04. - 2021.08. (5M)  페퍼저축은행 대안신용평가 신용대출(플랫폼) 모형 및 전략|     
-                > 2020.10. - 2020.11. (2M)  렌딧(P2P) ML대리자 모형 개발|
-                > 2020.11. - 2020.12. (2M)  동원제일저축은행 신용대출(플랫폼) |
-                > 2020.05. - 2020.10. (6M)  스마트저축은행 자동차담보대출|     
+                > 2022.11. – 2023.03. (5M)  J축은행 신용대출(플랫폼) 모형 및 전략 |     
+                > 2022.04. – 2022.12. (7M)  A대부 신용대출(플랫폼) 모형 및 전략 |  
+                > 2021.10. - 2022.03. (6M)  N저축은행 신용대출(플랫폼) 모형 및 전략|    
+                > 2021.04. - 2021.08. (5M)  P저축은행 대안신용평가 신용대출(플랫폼) 모형 및 전략|     
+                > 2020.10. - 2020.11. (2M)  L사(P2P) ML대리자 모형 개발|
+                > 2020.11. - 2020.12. (2M)  D저축은행 신용대출(플랫폼) |
+                > 2020.05. - 2020.10. (6M)  S저축은행 자동차담보대출|     
               - 대안정보 활용 모형 개발 (직장정보, 부동산정보, 통신정보, 커머스정보 등)
-                > 2021.04. - 2021.08. (5M)  페퍼저축은행 대안신용평가 ML스코어| 
-                > 2019.04. - 2019.07. (4M)  다날 휴대폰소액결제정보 신용평가스코어| 
+                > 2021.04. - 2021.08. (5M)  P저축은행 대안신용평가 ML스코어| 
+                > 2019.04. - 2019.07. (4M)  D사 휴대폰소액결제정보 신용평가스코어| 
               - 회생/파산/신용회복 부도율 예측모형 개발             
-                > 2022.11. – 2023.03. (5M)  JT친애저축은행 부실채권 회수가능성 모형|
-                > 2019.09. - 2019.12. (4M)  키움저축 회파복대출 모형 및 전략| 
-                > 2019.08. - 2019.09. (2M)  에이원캐피탈대부 회파복대출 모형 및 전략|  
+                > 2022.11. – 2023.03. (5M)  J저축은행 부실채권 회수가능성 모형|
+                > 2019.09. - 2019.12. (4M)  K저축 회파복대출 모형 및 전략| 
+                > 2019.08. - 2019.09. (2M)  A대부 회파복대출 모형 및 전략|  
  
           - 강사   
                > 2022.01. - 현재, 금융업권 종사자 대상 신용평가시스템(CSS) 고도화 과정 강사            
                > 2021.01. - 현재, 신입직원 SAS 코드 교육            
          
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:                          
+      - layout: left
+        title: Github
+        link: https://github.com/atechlouiis
+        sub_title: 자동매매 트레이딩 / 서비스 개발
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 프로젝트와            
+          API 및 크롤링 등을 활용한 부동산 텔레그램 알리미 서비스 프로젝트를 진행하였습니다.           
+          
+      - layout: 
+        title: 
+        link: 
+        sub_title:  
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+              - 주식 자동매매 트레이딩 전략 (대신증권 크레온 API 활용)
+                > [장 개시후 갭상 종목 매매](https://github.com/atechlouiis/BeastHeart/blob/main/yasu.py)|
+                > [거래량 400% 이상 폭발주 매매](https://github.com/atechlouiis/BeastHeart/blob/main/volume400.py)|
+                > [DART API활용 수주공시 매매](https://github.com/atechlouiis/BeastHeart/blob/main/dart_supply.py)|
+                > [이걸말아올려? 음봉긴꼬리 종목 매매](https://github.com/atechlouiis/BeastHeart/blob/main/long_tail.py)|
+                
+              - 재무제표 기반 스윙 전략 (Fnguide, DAUM증권 크롤링 활용)
+                > PER/PBR 하단 주식 + RSI 발굴 [blog](https://blog.naver.com/junkim1003/222670639022), [git](https://github.com/atechlouiis/BeastHeart/blob/main/band_low.py)|
+                
+              - 서비스 개발         
+                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/sil_apt.py) 개발중...|
+                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/apt_auction.py) 개발중...|
+                
+              - 기타         
+                > 국내 주식 주가, 거래량 크롤링 하기 [blog](https://blog.naver.com/junkim1003/222007045946)|
+                
+  - title: Postings # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 유튜브
+        link: 'https://www.youtube.com/@louiboss5621'
+        sub_title: 적립식 장기투자 시뮬레이션
+        caption: 현재 미운영
+        description: | # this will include new lines to allow paragraphs
+          평소에 관심있었던 적립식 장기투자 시뮬레이션의 결과물을 Microsoft PowerBI Tool을 활용하여 데이터 시각화 컨텐츠를 만들었습니다.
+          
+      - layout: left
+        title: 블로그
+        link: https://blog.naver.com/junkim1003
+        sub_title: 금융데이터 분석
+        caption: 이따금씩
+        description: | # this will include new lines to allow paragraphs
+          성공적인 투자를 위하여, 주식 / 코인 / 부동산 등 분야를 가리지 않고 금융데이터 정량 분석 / 역사  등 다양한 주제로 포스팅을 하고 있습니다.
+                   
+      - layout: 
+        title: 
+        link: 
+        sub_title:  
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+              - 주식 전략
+                > [BitCoin은 어떤 금융자산과 비슷할까?](https://blog.naver.com/junkim1003/222004940301)|
+                > [자산별 상관관계를 알아보자...1편](https://blog.naver.com/junkim1003/221984862054)|
+                > [자산별 상관관계를 알아보자...2편](https://blog.naver.com/junkim1003/221986894512)|
+                > [자산별 상관관계를 알아보자...2편](https://blog.naver.com/junkim1003/221986894512)|
+                > [JYP랑 트와이스 신곡](https://blog.naver.com/junkim1003/222394652674)|
+                > [IPO 관련주 언제 살까?](https://blog.naver.com/junkim1003/222332470287)|
+                > [원자재 관련주와 괴리율](https://blog.naver.com/junkim1003/222322551249)|
+                > [액면분할과 주가](https://blog.naver.com/junkim1003/222319619084)|
+                > [장단기 금리차와 증시](https://blog.naver.com/junkim1003/222944105644)|
+                > [꾸준함 vs 행운, 마켓타이밍 vs 장기투자](https://blog.naver.com/junkim1003/222675588437)|
+                > [시장의 바닥은 어디인가?](https://blog.naver.com/junkim1003/222633298614)|
+                > [사명 변경과 주가](https://blog.naver.com/junkim1003/222587414448)|
+                
+              - 부동산 지표          
+                > [전세가율와 매매 타이밍...1편 서울](https://blog.naver.com/junkim1003/222924678626)|
+                > [부동산은 왜? 언제? 우상향 할까? (feat.통화량)](https://blog.naver.com/junkim1003/221978453700)|
+                > [부동산에 왜 투자해야 할까?](https://blog.naver.com/junkim1003/221977321740)|
+                
+              - 경제 전반          
+                > [버블의 형성과 꺼짐...1편](https://blog.naver.com/junkim1003/222009297042)|
+                > [버블의 형성과 꺼짐...2편](https://blog.naver.com/junkim1003/222010340286)|
+                > [버블의 형성과 꺼짐...3편](https://blog.naver.com/junkim1003/222011169258)|
+                > [칵테일이론과 동조현상](https://blog.naver.com/junkim1003/222802788312)|
+                > [장단기 금리차와 증시](https://blog.naver.com/junkim1003/222944105644)|
+                > [토토해서 돈을 벌 수 없는 이유](https://blog.naver.com/junkim1003/222950205751)|
+                > [아파트 가격의 역사](https://blog.naver.com/junkim1003/222655117782)|
+                
+              - 아이디어노트        
+                > [아이디어노트#1 아파트 최적위치 계산기](https://blog.naver.com/junkim1003/222485023182)|
+                > [아이디어노트#2 포메이션과 주식전략](https://blog.naver.com/junkim1003/222492113405)|
+                > [아이디어노트#3 BNPL](https://blog.naver.com/junkim1003/222547011011)|
+                > [아이디어노트#4 KEDZE](https://blog.naver.com/junkim1003/222623427629)|
+                > [아이디어노트#5 아파트-ETF](https://blog.naver.com/junkim1003/222655106323)|
+                > [아이디어노트#6 NFT기반 회원권플랫폼](https://blog.naver.com/junkim1003/222675691095)|
  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -192,101 +286,6 @@ content:
               >2012.06. - 2012.08. UCEAP, Korea (캘리포니아 대학교 교환학생 프로그램) 조교|
                   
         
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:                          
-      - layout: left
-        title: Github
-        link: https://github.com/atechlouiis
-        sub_title: 자동매매 트레이딩 / 서비스 개발
-        caption: 
-        description: | # this will include new lines to allow paragraphs
-          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 프로젝트와            
-          API 및 크롤링 등을 활용한 부동산 텔레그램 알리미 서비스 프로젝트를 진행하였습니다.           
-          
-      - layout: 
-        title: 
-        link: 
-        sub_title:  
-        caption: 
-        description: | # this will include new lines to allow paragraphs
-              - 주식 자동매매 트레이딩 전략 (대신증권 크레온 API 활용)
-                > [장 개시후 갭상 종목 매매](https://github.com/atechlouiis/BeastHeart/blob/main/yasu.py)|
-                > [거래량 400% 이상 폭발주 매매](https://github.com/atechlouiis/BeastHeart/blob/main/volume400.py)|
-                > [DART API활용 수주공시 매매](https://github.com/atechlouiis/BeastHeart/blob/main/dart_supply.py)|
-                > [이걸말아올려? 음봉긴꼬리 종목 매매](https://github.com/atechlouiis/BeastHeart/blob/main/long_tail.py)|
-                
-              - 재무제표 기반 스윙 전략 (Fnguide, DAUM증권 크롤링 활용)
-                > PER/PBR 하단 주식 + RSI 발굴 [blog](https://blog.naver.com/junkim1003/222670639022), [git](https://github.com/atechlouiis/BeastHeart/blob/main/band_low.py)|
-                
-              - 서비스 개발         
-                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/sil_apt.py) 개발중...|
-                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/apt_auction.py) 개발중...|
-                
-              - 기타         
-                > 국내 주식 주가, 거래량 크롤링 하기 [blog](https://blog.naver.com/junkim1003/222007045946)|
-                
-  - title: Postings # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 유튜브
-        link: 'https://www.youtube.com/@louiboss5621'
-        sub_title: 적립식 장기투자 시뮬레이션
-        caption: 현재 미운영
-        description: | # this will include new lines to allow paragraphs
-          평소에 관심있었던 적립식 장기투자 시뮬레이션의 결과물을 Microsoft PowerBI Tool을 활용하여 데이터 시각화 컨텐츠를 만들었습니다.
-          
-      - layout: left
-        title: 블로그
-        link: https://blog.naver.com/junkim1003
-        sub_title: 금융데이터 분석
-        caption: 이따금씩
-        description: | # this will include new lines to allow paragraphs
-          성공적인 투자를 위하여, 주식 / 코인 / 부동산 등 분야를 가리지 않고 금융데이터 정량 분석 / 역사  등 다양한 주제로 포스팅을 하고 있습니다.
-          
-          
-      - layout: 
-        title: 
-        link: 
-        sub_title:  
-        caption: 
-        description: | # this will include new lines to allow paragraphs
-              - 주식 전략
-                > [BitCoin은 어떤 금융자산과 비슷할까?](https://blog.naver.com/junkim1003/222004940301)|
-                > [자산별 상관관계를 알아보자...1편](https://blog.naver.com/junkim1003/221984862054)|
-                > [자산별 상관관계를 알아보자...2편](https://blog.naver.com/junkim1003/221986894512)|
-                > [자산별 상관관계를 알아보자...2편](https://blog.naver.com/junkim1003/221986894512)|
-                > [JYP랑 트와이스 신곡](https://blog.naver.com/junkim1003/222394652674)|
-                > [IPO 관련주 언제 살까?](https://blog.naver.com/junkim1003/222332470287)|
-                > [원자재 관련주와 괴리율](https://blog.naver.com/junkim1003/222322551249)|
-                > [액면분할과 주가](https://blog.naver.com/junkim1003/222319619084)|
-                > [장단기 금리차와 증시](https://blog.naver.com/junkim1003/222944105644)|
-                > [꾸준함 vs 행운, 마켓타이밍 vs 장기투자](https://blog.naver.com/junkim1003/222675588437)|
-                > [시장의 바닥은 어디인가?](https://blog.naver.com/junkim1003/222633298614)|
-                > [사명 변경과 주가](https://blog.naver.com/junkim1003/222587414448)|
-                
-              - 부동산 지표          
-                > [전세가율와 매매 타이밍...1편 서울](https://blog.naver.com/junkim1003/222924678626)|
-                > [부동산은 왜? 언제? 우상향 할까? (feat.통화량)](https://blog.naver.com/junkim1003/221978453700)|
-                > [부동산에 왜 투자해야 할까?](https://blog.naver.com/junkim1003/221977321740)|
-                
-              - 경제 전반          
-                > [버블의 형성과 꺼짐...1편](https://blog.naver.com/junkim1003/222009297042)|
-                > [버블의 형성과 꺼짐...2편](https://blog.naver.com/junkim1003/222010340286)|
-                > [버블의 형성과 꺼짐...3편](https://blog.naver.com/junkim1003/222011169258)|
-                > [칵테일이론과 동조현상](https://blog.naver.com/junkim1003/222802788312)|
-                > [장단기 금리차와 증시](https://blog.naver.com/junkim1003/222944105644)|
-                > [토토해서 돈을 벌 수 없는 이유](https://blog.naver.com/junkim1003/222950205751)|
-                > [아파트 가격의 역사](https://blog.naver.com/junkim1003/222655117782)|
-                
-              - 아이디어노트        
-                > [아이디어노트#1 아파트 최적위치 계산기](https://blog.naver.com/junkim1003/222485023182)|
-                > [아이디어노트#2 포메이션과 주식전략](https://blog.naver.com/junkim1003/222492113405)|
-                > [아이디어노트#3 BNPL](https://blog.naver.com/junkim1003/222547011011)|
-                > [아이디어노트#4 KEDZE](https://blog.naver.com/junkim1003/222623427629)|
-                > [아이디어노트#5 아파트-ETF](https://blog.naver.com/junkim1003/222655106323)|
-                > [아이디어노트#6 NFT기반 회원권플랫폼](https://blog.naver.com/junkim1003/222675691095)|
                 
           
                  
