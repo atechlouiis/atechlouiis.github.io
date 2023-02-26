@@ -204,8 +204,8 @@ content:
         sub_title: 자동매매 트레이딩 / 서비스 개발
         caption: 
         description: | # this will include new lines to allow paragraphs
-          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 프로젝트를 공유드립니다.           
-          더불어 현재 개발중인 API 및 크롤링 등을 활용한 부동산 텔레그램 알리미 서비스 프로젝트를 공유드립니다.           
+          인간의 사사로운 감정을 투자에서 배제하고자 자동매매 트레이딩을 공부하며 개발한 단기매매 전략들과 재무제표 기반 스윙 전략 등의 프로젝트와            
+          API 및 크롤링 등을 활용한 부동산 텔레그램 알리미 서비스 프로젝트를 진행하였습니다.           
           
       - layout: 
         title: 
@@ -223,8 +223,8 @@ content:
                 > PER/PBR 하단 주식 + RSI 발굴 [blog](https://blog.naver.com/junkim1003/222670639022), [git](https://github.com/atechlouiis/BeastHeart/blob/main/band_low.py)|
                 
               - 서비스 개발         
-                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/sil_apt.py)|
-                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/apt_auction.py)|
+                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/sil_apt.py) 개발중...|
+                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/apt_auction.py) 개발중...|
                 
               - 기타         
                 > 국내 주식 주가, 거래량 크롤링 하기 [blog](https://blog.naver.com/junkim1003/222007045946)|
