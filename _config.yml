@@ -57,9 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
   운이 좋게도, 제 길을 일찍이 찾게 되어 산업공학 석사를 마치고 현재는 NICE평가정보에서 신용평가시스템 개발 및 컨설팅하는 업무를 맡고 있습니다.   
   
   다양한 분야의 금융데이터를 탐구하여, 여러 시뮬레이션을 통해 전략을 도출해내고 실제 적용해보는 것에 큰 재미와 보람을 느낍니다.
-  
   최종 목표는 머신러닝 모델을 활용하여 많은 사람들이 직관적이고 쉽게 이용할 수 있는 디지털 서비스 개발하여 배포하는 것입니다.   
-  
+    
   관심가져주셔서 감사합니다. 좋은 인연으로 이어지면 좋겠습니다. 
   
   역량 
@@ -91,7 +90,7 @@ content:
         caption: 
         description: | # this will include new lines to allow paragraphs    
           - 신용평가시스템(CSS) 스코어카드/ML모형 & 전략 개발 및 컨설팅, 모니터링 시스템 설계
-          - 모델링 활용 모델: 로지스틱 회귀, GBM, DNN, RF, 대리자모형, two-target ML, explainable ML 등
+          - 활용 모델: 로지스틱 회귀, GBM, DNN, RF, 대리자모형, two-target ML, explainable ML 등
               - 연체부도율 예측모형 개발                 
                 > 2022.11. – 2023.03. (5M)  JT친애저축은행 신용대출(플랫폼) 모형 및 전략 |     
                 > 2022.04. – 2022.12. (7M)  아프로파이낸셜대부 신용대출(플랫폼) 모형 및 전략 |  
