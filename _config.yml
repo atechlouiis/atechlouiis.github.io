@@ -48,16 +48,14 @@ youtube_username: '@louiboss5621'
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요, 김형준이라고 합니다. 사교적인 활동가이자 매우 긍정적인 ENFP입니다. 활발한 성격으로 평소에 팀 스포츠인  축구와 농구를 가장 좋아하지만, 
-  최근엔 나 자신을 이기고자 클라이밍과 수영에도 흥미를 느끼고 있습니다. 테크와 투자 관련된 모든 컨텐츠를 즐기며, 장밋빛 미래를 상상하는 것을 좋아합니다.
-  
-  고등학교 시절, Football Manager 게임을 접하였습니다. 세계의 여러 선수들이 능력치가 정량적으로 평가되어 있고, 주어진 예산을 활용하여 성과를 내는 시뮬레이션 게임입니다.
-  지속적으로 저평가 유망주를 발굴하여 키워, 다른팀에 비싸게 팔면서 팀의 몸집을 점점 늘리며 동시에 성적을 내는 과정에서 엄청난 희열을 느끼게 되었습니다. 
-  이후 제한된 자원으로 최고의 성과를 내는 퀀트 기반 구단 운영을 다룬 Money Ball이라는 영화를 보면서 확신하게 되었습니다. 
+  안녕하세요, 김형준이라고 합니다. 사교적인 활동가이자 매우 긍정적인 ENFP입니다. 
     
-  운이 좋게도, 제 길을 일찍이 찾게 되어 산업공학 석사까지 마치고 현재는 NICE평가정보에서 신용평가시스템 개발 및 컨설팅하는 업무를 맡고 있습니다.   
+  테크와 투자 관련된 모든 컨텐츠를 즐기며, 장밋빛 미래를 상상하는 것을 좋아합니다.
   
-  제한된 환경과 데이터에 대한 갈증을 풀고자 개인적으로 크고 작은 프로젝트들을 취미로 삼고 있습니다.
+  활발한 성격으로 평소에 팀 스포츠인 축구와 농구를 가장 좋아하지만, 최근엔 나 자신과의 싸움인 클라이밍과 수영에도 흥미를 느끼고 있습니다. 
+  
+  운이 좋게도, 제 길을 일찍이 찾게 되어 산업공학 석사를 마치고 현재는 NICE평가정보에서 신용평가시스템 개발 및 컨설팅하는 업무를 맡고 있습니다.   
+  
   다양한 분야의 금융데이터를 탐구하여, 여러 시뮬레이션을 통해 전략을 도출해내고 실제 적용해보는 것에 큰 재미와 보람을 느낍니다.
   
   최종 목표는 머신러닝 모델을 활용하여 많은 사람들이 직관적이고 쉽게 이용할 수 있는 디지털 서비스 개발하여 배포하는 것입니다.   
@@ -98,15 +96,15 @@ content:
                 > 2022.11. – 2023.03. (5M)  JT친애저축은행 신용대출(플랫폼) 모형 및 전략 |     
                 > 2022.04. – 2022.12. (7M)  아프로파이낸셜대부 신용대출(플랫폼) 모형 및 전략 |  
                 > 2021.10. - 2022.03. (6M)  NH저축은행 신용대출(플랫폼) 모형 및 전략|    
-                > 2021.04. - 2021.08. (5M)  페퍼저축은행 대안신용평가 신용대출(플랫폼) 모형 및 전략 개발|     
+                > 2021.04. - 2021.08. (5M)  페퍼저축은행 대안신용평가 신용대출(플랫폼) 모형 및 전략|     
                 > 2020.10. - 2020.11. (2M)  렌딧(P2P) ML대리자 모형 개발|
                 > 2020.11. - 2020.12. (2M)  동원제일저축은행 신용대출(플랫폼) |
                 > 2020.05. - 2020.10. (6M)  스마트저축은행 자동차담보대출|     
               - 대안정보 활용 모형 개발 (직장정보, 부동산정보, 통신정보, 커머스정보 등)
-                > 2021.04. - 2021.08. (5M)  페퍼저축은행 대안신용평가 ML스코어 개발| 
-                > 2019.04. - 2019.07. (4M)  다날 휴대폰소액결제정보 신용평가스코어 개발| 
+                > 2021.04. - 2021.08. (5M)  페퍼저축은행 대안신용평가 ML스코어| 
+                > 2019.04. - 2019.07. (4M)  다날 휴대폰소액결제정보 신용평가스코어| 
               - 회생/파산/신용회복 부도율 예측모형 개발             
-                > 2022.11. – 2023.03. (5M)  JT친애저축은행 부실채권 회수가능성 모형 개발|
+                > 2022.11. – 2023.03. (5M)  JT친애저축은행 부실채권 회수가능성 모형|
                 > 2019.09. - 2019.12. (4M)  키움저축 회파복대출 모형 및 전략| 
                 > 2019.08. - 2019.09. (2M)  에이원캐피탈대부 회파복대출 모형 및 전략|  
  
@@ -216,19 +214,20 @@ content:
         caption: 
         description: | # this will include new lines to allow paragraphs
               - 주식 자동매매 트레이딩 전략 (대신증권 크레온 API 활용)
-                > [야수의 심장 - 갭상 ](https://blog.naver.com/junkim1003/222004940301)|
-                > [거래량 폭발주](https://blog.naver.com/junkim1003/222009297042)|
-                > [DART API활용 수주공시 매매](https://blog.naver.com/junkim1003/222009297042)|
+                > [장 개시후 갭상 종목 매매](https://github.com/atechlouiis/BeastHeart/blob/main/yasu.py)|
+                > [거래량 400% 이상 폭발주 매매](https://github.com/atechlouiis/BeastHeart/blob/main/volume400.py)|
+                > [DART API활용 수주공시 매매](https://github.com/atechlouiis/BeastHeart/blob/main/dart_supply.py)|
+                > [이걸말아올려? 음봉긴꼬리 종목 매매](https://github.com/atechlouiis/BeastHeart/blob/main/long_tail.py)|
                 
               - 재무제표 기반 스윙 전략 (Fnguide, DAUM증권 크롤링 활용)
-                > PER/PBR 하단 주식 + RSI 발굴 [blog](https://blog.naver.com/junkim1003/222670639022), [git](https://blog.naver.com/junkim1003/222004940301)|
+                > PER/PBR 하단 주식 + RSI 발굴 [blog](https://blog.naver.com/junkim1003/222670639022), [git](https://github.com/atechlouiis/BeastHeart/blob/main/band_low.py)|
                 
               - 서비스 개발         
-                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://blog.naver.com/junkim1003/222485023182)|
-                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://blog.naver.com/junkim1003/222485023182)|
+                > [공공데이터 API활용 - 부동산 실거래가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/sil_apt.py)|
+                > [대법원경매사이트 크롤링 활용 -경매 낙찰가 알리미](https://github.com/atechlouiis/atechlouiis.github.io/blob/main/apt_auction.py)|
                 
               - 기타         
-                > 국내 주식 주가, 거래량 크롤링 하기 [blog](https://blog.naver.com/junkim1003/222007045946), [git](https://blog.naver.com/junkim1003/222007045946)|
+                > 국내 주식 주가, 거래량 크롤링 하기 [blog](https://blog.naver.com/junkim1003/222007045946)|
                 
   - title: Postings # Title for the section
     layout: list # Type of content section (list/text)
